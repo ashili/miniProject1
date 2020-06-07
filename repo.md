@@ -7,7 +7,7 @@ to create a repository you can use the init to create a new repo or clone to dow
 
 <h3 style="color:red">init</h3>
 
-git init command is used to set up new repository locally (on yout hard drive).
+git init command is used to set up new repository locally (on your hard drive).
 
 You need to go the folder you want to put in github and use the following command.
 
@@ -27,3 +27,9 @@ it downloads the repository in whatever specified folder (from github.com).
 
 git clone https://github.com/your username/repository name.git
 ```
+
+<h3 style="color:red">alternative to clone</h3>
+
+You can also simply download a zipped version of the repository from github
+
+![downlaod](images/download.png)
