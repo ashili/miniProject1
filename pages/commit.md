@@ -5,4 +5,6 @@ Similar to saving a file, a commit is a change to one or more files in your bran
 * When the changes were made
 * Who created the changes
 
-When you make a commit, you must include a commit message that briefly describes the changes. You can also add a co-author on any commits you collaborate on.
+When you make a commit, you must include a commit message that briefly describes the changes. You can also add a co-author on any commits you collaborate on. Example:
+
+`git commit -m 'Task: Updated README.md`
