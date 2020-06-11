@@ -15,6 +15,10 @@ This Project is intended to give you a clearer and easier way to use git as it i
 
 <a href="/pages/clone.md" >![back](/images/clone.png)</a>
 
+1. [Repository](pages/repo.md)
+
+1. [Clone](pages/clone.md)
+
 1. [Fork](pages/fork.md)
 
 1. [Branch](pages/branch.md)

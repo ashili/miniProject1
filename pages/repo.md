@@ -5,7 +5,7 @@ It's basically just a folder in which you can edit your files, then run Git comm
 <h2 style="color:blue">CREATION OF REPOSITORIES</h2>
 to create a repository you can use the init to create a new repo or use
 
-[Clone](pages/clone.md)
+[Clone](/clone.md)
 
 to downlaod a pre-existing one on github.
 
