@@ -11,9 +11,6 @@ This Project is intended to give you a clearer and easier way to use git as it i
 
 ## Content
 
-<a href="/pages/repo.md" >![back](/images/repo.png)</a>
-
-<a href="/pages/clone.md" >![back](/images/clone.png)</a>
 
 1. [Repository](pages/repo.md)
 

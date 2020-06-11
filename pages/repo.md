@@ -20,3 +20,6 @@ You need to go the folder you want to put in github and use the following comman
 git init
 
 ```
+
+
+<a href="/pages/clone.md" >![back](/images/Back.png)</a>

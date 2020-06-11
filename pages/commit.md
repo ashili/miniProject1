@@ -10,4 +10,11 @@ When you make a commit, you must include a commit message that briefly describes
 
 `git commit -m 'Task: Updated README.md'`
 
+
+to know all previous commits to a repository use :
+
+```bash
+git log
+```
+
 <a href="../README.md" >![back](/images/Back.png)</a>
