@@ -28,7 +28,7 @@ This Project is intended to give you a clearer and easier way to use git as it i
 
 1. [Push](pages/Pull.md)
 
-1. [Remote Add/Remove/Show](pages/remote.md)
+1. [Remote](pages/remote.md)
 
 1. [Status](pages/status.md)
 
