@@ -6,4 +6,10 @@ To push means to send your committed changes to a remote repository on GitHub.co
 git push <destination> <source> 
 ```
 
+exp:
+
+```bash
+git push origin master
+```
+
 <a href="../README.md" >![back](/images/Back.png)</a>
