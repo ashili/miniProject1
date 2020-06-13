@@ -5,7 +5,8 @@ It's basically just a folder in which you can edit your files, then run Git comm
 <h2 style="color:blue">CREATION OF REPOSITORIES</h2>
 to create a repository you can simply go to github.com and click new as show in the figure 1.
 
-![new](/images/newRepo.png)Figure 1
+![new](/images/newRepo.png)
+Figure 1
 
 
 
