@@ -22,4 +22,4 @@ git init
 ```
 
 
-<a href="/pages/clone.md" >![back](/images/Back.png)</a>
+<a href="../README.md" >![back](/images/Back.png)</a>
