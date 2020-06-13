@@ -26,7 +26,7 @@ This Project is intended to give you a clearer and easier way to use git as it i
 
 1. [Checkout](pages/checkout.md)
 
-1. [Push](pages/Pull.md)
+1. [Push](pages/push.md)
 
 1. [Remote](pages/remote.md)
 
